@@ -67,7 +67,7 @@ body {
 
 .ficon {
     border-radius: 300px 300px 0px 0px;
-
+    height: 450px;
     padding-top: 30%;
 }
 
@@ -190,7 +190,7 @@ margin: auto;
 }
 .email{
     width: 500px;
-height: 20px;
+height: 40px;
 }
 .id-des{
     color: rgba(39, 39, 39, 0.60);
