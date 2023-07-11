@@ -180,6 +180,8 @@ margin: auto;
     height: 449px;
     margin: 128px 200px;
     padding-top:122px ;
+    background-repeat: no repeat;
+    background-size: cover;
     
 }
 .email{
@@ -192,4 +194,13 @@ text-align: center;
 font-size: 18px;
 font-weight: 400;
 
+}
+.footer{
+    background: #111010;
+    width: 1922px;
+    height: 449px;
+    color: white;
+}
+.footer-description{
+    color: rgba(255, 255, 255, 0.90);
 }
