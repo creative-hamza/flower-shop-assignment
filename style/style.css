@@ -46,6 +46,8 @@ body {
     font-size: 18px;
     width: 594px;
     margin: auto;
+    margin-bottom: 28px;
+    margin-top: 28px;
 }
 
 .feature-photo-container {
@@ -55,6 +57,7 @@ body {
     height: 538px;
     justify-content: space-around;
     margin: auto;
+    
 
 }
 
@@ -213,6 +216,7 @@ font-weight: 400;
     text-align: center;
     margin-top: 10px;
     font-size: 18px;
+    margin: auto;
 
    
 }
@@ -222,4 +226,17 @@ font-weight: 400;
 }
 .footer-title{
     margin-top: 100px;
+}
+.copyritgh{
+    margin-top: 10px;
+}
+.service-container{
+    margin-top: 128px;
+    background: rgba(229, 84, 115, 0.05)
+}
+.services-title{
+    border: 3px solid gray;
+    border-radius: 5px 0px 5px 5px;
+    box-shadow: 3px 3px 5px;
+    color: #E55473;
 }
