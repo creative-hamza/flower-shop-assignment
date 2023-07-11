@@ -165,3 +165,31 @@ margin: auto;
     gap: 10px;
     
 }
+.id-container{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    /* background-image: url('/Rectangle\ 9.png'); */
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.input-deal{
+ background-image: url('/Rectangle\ 9.png');
+    width: 1440px;
+    height: 449px;
+    margin: 128px 200px;
+    padding-top:122px ;
+    
+}
+.email{
+    width: 500px;
+height: 20px;
+}
+.id-des{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+
+}
